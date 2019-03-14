@@ -17,7 +17,7 @@
 #include "particle_filter.h"
 #include "helper_functions.h"
 
-using namespace std;.
+using namespace std;
 using std::string;
 using std::vector;
 
